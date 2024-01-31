@@ -1,3 +1,4 @@
-- author: Quan Hoang Ngoc
-- occasion: ToanKHMT
-- time: HK1, 2023
+# Introduce 
+- Quan Hoang Ngoc
+- Toan cho KHMT 
+- HK1, 2023 
