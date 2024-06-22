@@ -1,9 +1,17 @@
-# Majestic Overture to Profound Knowledge 
+## About This Project
 
-- Quan Hoang Ngoc
-- Explorations in the Mathematical Foundations of Computer Science 
-- Inaugural Semester, 2023 
+### Majestic Overture to Profound Knowledge
 
-### A Dazzling Glimpse of Elegance
+Welcome to a journey of mathematical elegance and computational artistry, spearheaded by Quan Hoang Ngoc. This project, an exploration in the Mathematical Foundations of Computer Science, marks the inaugural semester of 2023 with a dazzling dive into the world of Linear Regression.
 
-Prepare to witness a captivating performance of intellect as I venture into the enchanting world of Linear Regression with meticulous artistry. Behold the unveiling of an extraordinary odyssey where I immerse myself in the sacred craft of self-coding Linear Regression from its very essence. Within this scholarly pursuit, I traverse the realms of Normal Equation (NE), Stochastic Gradient Descent (SGD), and Gradient Descent (GD), meticulously dissecting their subtleties amidst the transformative dance of the 'alpha learning rate' and the melodic resonance of the R2 metric taking the spotlight. Join me on this expedition into the enigmatic realm of predictive modeling and the exquisite tapestry of algorithmic craftsmanship. 🌟📊💡
+### Project Highlights
+
+- **Linear Regression Mastery**: Delve into the fundamentals of Linear Regression, crafted meticulously from the ground up.
+- **Algorithmic Exploration**: Traverse the sophisticated landscapes of Normal Equation (NE), Stochastic Gradient Descent (SGD), and Gradient Descent (GD).
+- **Dynamic Learning**: Experience the transformative dance of the 'alpha learning rate' and the melodic resonance of the R2 metric, shining in the spotlight of our predictive models.
+
+### Vision and Goal
+
+This project is a testament to the seamless blend of art and science, pushing the boundaries of conventional knowledge and celebrating the intricate beauty of algorithmic craftsmanship. Join me on this profound expedition into the realm of predictive modeling, where each line of code is a stroke of genius and every model is a masterpiece.
+
+Embrace the elegance of mathematics and the innovation of computer science in this transcendent ode to technological marvels. 🌟📊💡
