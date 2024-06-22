@@ -1,9 +1,9 @@
-# Exquisite Prelude to Profound Wisdom 
+# Majestic Overture to Profound Knowledge 
 
 - Quan Hoang Ngoc
-- Mathematical Foundations for Computer Science 
-- First Semester, 2023 
+- Explorations in the Mathematical Foundations of Computer Science 
+- Inaugural Semester, 2023 
 
-### A Glimpse into the Elegance
+### A Dazzling Glimpse of Elegance
 
-Unveil a symphony of intellect as I delve into the realm of Linear Regression with meticulous craftsmanship. Witness the unveiling of an extraordinary endeavor where I embark on the journey of self-coding Linear Regression from its fundamental core. Through this assignment, I immerse myself in the realms of Normal Equation (NE), Stochastic Gradient Descent (SGD), and Gradient Descent (GD), meticulously comparing their nuances as 'alpha learning rate' transforms and the resonant metric of R2 takes center stage. Join me in unraveling the mysteries of predictive modeling and algorithmic artistry. 🌟📊💡
+Prepare to witness a captivating performance of intellect as I venture into the enchanting world of Linear Regression with meticulous artistry. Behold the unveiling of an extraordinary odyssey where I immerse myself in the sacred craft of self-coding Linear Regression from its very essence. Within this scholarly pursuit, I traverse the realms of Normal Equation (NE), Stochastic Gradient Descent (SGD), and Gradient Descent (GD), meticulously dissecting their subtleties amidst the transformative dance of the 'alpha learning rate' and the melodic resonance of the R2 metric taking the spotlight. Join me on this expedition into the enigmatic realm of predictive modeling and the exquisite tapestry of algorithmic craftsmanship. 🌟📊💡
